@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-02T23:37:27 IST" name="Default suite" finished-at="2025-04-02T23:38:24 IST" duration-ms="56656">
+    <groups>
+    </groups>
+    <test started-at="2025-04-02T23:37:27 IST" name="Default test" finished-at="2025-04-02T23:38:24 IST" duration-ms="56656">
+      <class name="note_Master.NoteMaster">
+        <test-method is-config="true" signature="setup()[pri:0, instance:note_Master.NoteMaster@645aa696]" started-at="2025-04-02T23:37:27 IST" name="setup" finished-at="2025-04-02T23:37:30 IST" duration-ms="2655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signUp()[pri:0, instance:note_Master.NoteMaster@645aa696]" started-at="2025-04-02T23:37:30 IST" name="signUp" finished-at="2025-04-02T23:37:31 IST" duration-ms="982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method signature="logIn()[pri:1, instance:note_Master.NoteMaster@645aa696]" started-at="2025-04-02T23:37:31 IST" name="logIn" finished-at="2025-04-02T23:37:39 IST" duration-ms="7731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="WriteNotes()[pri:2, instance:note_Master.NoteMaster@645aa696]" started-at="2025-04-02T23:37:39 IST" name="WriteNotes" finished-at="2025-04-02T23:38:10 IST" duration-ms="31562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WriteNotes -->
+        <test-method signature="profile()[pri:3, instance:note_Master.NoteMaster@645aa696]" started-at="2025-04-02T23:38:10 IST" name="profile" finished-at="2025-04-02T23:38:17 IST" duration-ms="6299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profile -->
+        <test-method signature="Logout()[pri:4, instance:note_Master.NoteMaster@645aa696]" started-at="2025-04-02T23:38:17 IST" name="Logout" finished-at="2025-04-02T23:38:19 IST" duration-ms="2120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:note_Master.NoteMaster@645aa696]" started-at="2025-04-02T23:38:19 IST" name="tearDown" finished-at="2025-04-02T23:38:24 IST" duration-ms="5226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- note_Master.NoteMaster -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
