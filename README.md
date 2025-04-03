@@ -65,7 +65,7 @@ The scope of testing includes the core functionalities of the Note_Master applic
 
 ### 4.2 Software  
 - Operating Systems: Windows 11  
-- Browsers: Chrome, Firefox, Safari, Edge  
+- Browsers: Chrome  
 - Database: N/A  
 
 ---
