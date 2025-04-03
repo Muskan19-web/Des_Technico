@@ -51,7 +51,8 @@ The scope of testing includes the core functionalities of the Note_Master applic
 ### 3.1 Features to be Tested  
 1. Registration  
 2. Login  
-3. Home Page  
+3. Home Page
+4. Profile Section
 
 ### 3.2 Features Not to be Tested  
 - Integration with third-party services (e.g., external APIs) will not be tested in this plan.  
